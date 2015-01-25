@@ -1,0 +1,5 @@
+aaa
+bbb
+ccc
+path=F:/Java/java-dev/item/copy1/data/dir1/data1.txt
+path=F:/Java/java-dev/item/copy1/data/dir1/data2.txt
